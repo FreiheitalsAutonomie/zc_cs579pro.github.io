@@ -25,6 +25,8 @@ myImage.onclick = function() {
     }
 }
 
+
+
 /*
 let icecream = 'Chocolate';
 if (icecream==='Chocolate'){
